@@ -1,0 +1,1 @@
+This will be the hotel management application design in the Python djongo and Flask
